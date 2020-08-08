@@ -1,0 +1,82 @@
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.csproj.CoreCompileInputs.cache
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.RazorAssemblyInfo.cache
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.RazorAssemblyInfo.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.AssemblyInfoInputs.cache
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.AssemblyInfo.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.csprojAssemblyReference.cache
+C:\Workspace\MicroServices\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.deps.json
+C:\Workspace\MicroServices\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.runtimeconfig.json
+C:\Workspace\MicroServices\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.runtimeconfig.dev.json
+C:\Workspace\MicroServices\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.dll
+C:\Workspace\MicroServices\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.pdb
+C:\Workspace\MicroServices\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.Views.dll
+C:\Workspace\MicroServices\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.Views.pdb
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.TagHelpers.input.cache
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.TagHelpers.output.cache
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.RazorCoreGenerate.cache
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.RazorTargetAssemblyInfo.cache
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.RazorTargetAssemblyInfo.cs
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.Views.pdb
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.dll
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.pdb
+C:\Workspace\MicroServices\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.csproj.CopyComplete
+C:\SSK\SKF\Source Backup\EObserverMicroService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\SSK\SKF\Source Backup\EObserverMicroService\bin\Debug\netcoreapp2.1\appsettings.json
+C:\SSK\SKF\Source Backup\EObserverMicroService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\SSK\SKF\Source Backup\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.deps.json
+C:\SSK\SKF\Source Backup\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.runtimeconfig.json
+C:\SSK\SKF\Source Backup\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.runtimeconfig.dev.json
+C:\SSK\SKF\Source Backup\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.dll
+C:\SSK\SKF\Source Backup\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.pdb
+C:\SSK\SKF\Source Backup\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.Views.dll
+C:\SSK\SKF\Source Backup\EObserverMicroService\bin\Debug\netcoreapp2.1\EMaintanenceMicroService.Views.pdb
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.csprojAssemblyReference.cache
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.csproj.CoreCompileInputs.cache
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.RazorAssemblyInfo.cache
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.RazorAssemblyInfo.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.AssemblyInfoInputs.cache
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.AssemblyInfo.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.TagHelpers.input.cache
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.TagHelpers.output.cache
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.RazorCoreGenerate.cache
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.RazorTargetAssemblyInfo.cache
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.RazorTargetAssemblyInfo.cs
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.Views.pdb
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.dll
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.pdb
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.genruntimeconfig.cache
+C:\SSK\SKF\Source Backup\EObserverMicroService\obj\Debug\netcoreapp2.1\EMaintanenceMicroService.csproj.CopyComplete
