@@ -1,0 +1,85 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+    Layout = "~/Views/Shared/_PublicLayout.cshtml";
+}
+
+<link href="~/lib/slick/slick.min.css" rel="stylesheet" />
+<link href="~/lib/slick/slick-theme.min.css" rel="stylesheet" />
+
+<div ng-controller="skfCtrl">
+
+    @using Microsoft.AspNetCore.Identity
+
+    @inject SignInManager<IdentityUser> SignInManager
+
+    @if (!SignInManager.IsSignedIn(User))
+    {
+        <div class="row log-in-page main-wrapper">
+            <div class="col-md-8 slider-wrapper">
+                <slick infinite=true slides-to-show=1 dots=true slides-to-scroll=1 slickPause=true autoplay=true autoplayspeed="2000" ng-if="slideLoaded" ng-bind-html="sliderContent.typeText | trustAsHtml">
+                </slick>
+            </div>
+            <div class="col-md-4">
+                <form method="post" asp-area="Identity" asp-page="/Account/Login">
+                    <div class="log-in col-md-12">
+                        <h4>Login</h4>
+                        <div asp-validation-summary="All" class="text-danger"></div>
+                        <div class="input-group mb-3">
+                            @*<label asp-for="Input.Email"></label>*@
+                            <div class="input-group-prepend">
+                                <span class="input-icon input-group-text">
+                                    <i class="fa fa-user"></i>
+                                </span>
+                            </div>
+                            <input autofocus asp-for="Input.Email" class="form-control" placeholder="Email address" />
+                            @*<span asp-validation-for="Input.Email" class="text-danger"></span>*@
+                        </div>
+                        <div class="input-group mb-4">
+                            @*<label asp-for="Input.Password"></label>*@
+                            <div class="input-group-prepend">
+                                <span class="input-icon input-group-text">
+                                    <i class="fa fa-lock"></i>
+                                </span>
+                            </div>
+                            <input asp-for="Input.Password" class="form-control" placeholder="Password" />
+                            @*<span asp-validation-for="Input.Password" class="text-danger"></span>*@
+                        </div>
+                        <div class="form-group">
+                            <div class="checkbox">
+                                <label></label> 
+                                @*<label asp-for="Input.RememberMe">
+                                    <input asp-for="Input.RememberMe" />
+                                    @Html.DisplayNameFor(m => m.Input.RememberMe)
+                                </label>*@
+                            </div>
+                            <p class="forget-password">
+                                <a asp-area="Identity" asp-page="/Account/ForgotPassword">Forgot your password?</a>
+                            </p>
+                            @*<p>
+                                 <a asp-area="Identity" asp-page="/Account/Register">Register as a new user</a>
+                                </p>*@
+                        </div>
+                        <div class="form-group log-button">
+                            <button type="submit" class="btn btn-primary"><span class="fa fa-sign-in"></span>Login</button>
+                        </div>
+                        <p class="version">{{appVersion}}</p>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <environment include="Development">
+        <script src="~/js/login/index.js"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="~/js/login/index.js" asp-append-version="true"></script>
+    </environment>
+    <partial name="_ValidationScriptsPartial" />
+}
